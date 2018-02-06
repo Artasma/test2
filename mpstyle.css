@@ -1,0 +1,28 @@
+div.jumbotron{
+  background-color: #b29ee6;
+}
+p{
+  text-align: center;
+  
+}
+h3{
+  text-align: center;
+}
+h4{
+  text-align: center;
+}
+body{
+  background-color: lightyellow;
+}
+a.list-group-item{
+  height: 200px;
+}
+.list-group-item-text {
+  margin-bottom: 30px;
+}
+.icon{
+  margin: 30px;
+  text-align: center;
+  color: #781adc;
+
+}
