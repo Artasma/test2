@@ -1,0 +1,33 @@
+.container{
+  max-width: 1000px;
+  margin: auto;
+  display: flex;
+  flex-wrap: wrap;
+}
+h3 p{
+  text-align: center;
+}
+.box{
+  margin: 10px;
+  min-width: 200px;
+  max-width: 400px;
+  display: flex;
+  flex-direction:column;
+  flex: 1;
+}
+.inbox-title{
+  padding: 20px;
+  text-align: center;
+}
+img{
+  height: 200px;
+  width: 200px;
+  border-radius: 50%;
+}
+.inbox-media{
+  text-align: center;
+
+}
+.title{
+  text-align: center;
+}

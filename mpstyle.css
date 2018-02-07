@@ -3,7 +3,7 @@ div.jumbotron{
 }
 p{
   text-align: center;
-  
+
 }
 h3{
   text-align: center;
@@ -24,5 +24,10 @@ a.list-group-item{
   margin: 30px;
   text-align: center;
   color: #781adc;
+
+}
+.collapse .navbar-collapse{
+  display: flex;
+  flex-direction: column;
 
 }

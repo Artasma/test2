@@ -1,0 +1,24 @@
+.container{
+  width: 900px;
+  height: 600px;
+  margin: auto;
+  background-color: black;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+
+}
+.box{
+  width: 20px;
+  font-size: 30px;
+  margin: left;
+  background-color: yellow;
+  border: 1px solid;
+  border-color: black;
+  padding: 20px;
+}
+h4{
+  margin: auto;
+  color: green;
+}

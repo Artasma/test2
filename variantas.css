@@ -1,0 +1,21 @@
+.container{
+  width: 900px;
+  margin: auto;
+  background-color: black;
+  display: flex;
+  flex-direction:row-reverse;
+
+}
+.box{
+  width: 20px;
+  font-size: 30px;
+  margin: left;
+  background-color: yellow;
+  border: 1px solid;
+  border-color: black;
+  padding: 20px;
+}
+h4{
+  margin: auto;
+  color: green;
+}
